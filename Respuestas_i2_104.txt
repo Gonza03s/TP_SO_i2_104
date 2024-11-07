@@ -9,3 +9,118 @@ el fork?
 Se mantienen ya que solo estamos agregando 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
+
+
+Uriel Rodriguez:
+git add remote origin
+git add remote origin https://github.com/urielr99/TP_SO_i2_104
+git status
+git commit -m "archivo"
+git remote add origin https://github.com/urielr99/TP_SO_i2_104
+git push
+git push --set-upstream origin master
+git status
+git add .
+git status
+git commit -m "archivodatos"
+git push
+git rm TP_SO_i2_104-master
+git -rm TP_SO_i2_104-master
+git -r TP_SO_i2_104-master
+git rm -r TP_SO_i2_104-master
+git commit -m "carpeta eliminada"
+git push
+git status
+git add NuevoDato.txt
+git commit -m "archivo dato"
+git push
+history
+git status
+git add Respuestas_i2_104.txt
+git commit -m "respuestas"
+git push
+git init
+git pull
+git status
+git add Respuestas_i2_104.txt
+git status
+git commit -m "respuestas c y d "
+git push
+
+Agustin Cuello:
+git clone https://github.com/AgustinCuello/TP_SO_i2_104.git
+git status
+git status
+git add .
+git status
+git commit -m "Modificacion Gamma"
+git push
+git pull
+git pull
+git pull origin https://github.com/urielr99/TP_SO_i2_104.git
+git clone https://github.com/urielr99/TP_SO_i2_104.git
+git merge https://github.com/urielr99/TP_SO_i2_104.git
+git pull
+git status
+git add Respuestas_i2_104.txt
+git status
+git commit -m "Respuestas GAMMA"
+git push
+
+
+Gonzalo Suarez:
+git remote add upstream https://github.com/urielr99/TP_SO_i2_104
+git pull upstream master
+git clone https://github.com/urielr99/TP_SO_i2_104
+git clone https://github.com/urielr99/TP_SO_i2_104
+git clone https://github.com/Gonza03s/TP_SO_i2_104
+git remote -v
+git pull https://github.com/urielr99/TP_SO_i2_104.git master
+git status
+git status
+git add .
+git commit -m 'commit'
+git push
+git remote -v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

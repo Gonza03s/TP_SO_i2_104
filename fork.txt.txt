@@ -1,4 +1,11 @@
+
 Nombre: Gonzalo
 Suarez: Suarez
 ip: 192.168.1.41
 Hora: 9:20
+
+Nombre: Agustin
+Apellido: Cuello
+IP: 192.168.1.107
+Hora: 09:22
+
